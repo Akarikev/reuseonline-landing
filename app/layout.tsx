@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "reuseOnline ⚡ - Easily check your users online status",
-  description: "A react hook to easily check users online status of your users",
+  description: "A react hook to easily check the online status of your users",
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "reuseOnline ⚡ - Easily check your users online status ",
     description:
-      "A react hook to easily check users online status of your users",
+      "A react hook to easily check the online status of your users",
     creator: "@elorm_elom",
     images: ["https://reuseonline.vercel.app/twitter-image.png"],
   },
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     images: "https://reuseonline.vercel.app/opengraph-image.png",
     title: "reuseOnline ⚡ - Easily check your users online status",
     description:
-      "A react hook to easily check users online status of your users",
+      "A react hook to easily check the online status of your users",
   },
 };
 
