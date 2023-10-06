@@ -9,6 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "reuseOnline ⚡",
   description: "react hook to check users online activity",
+  
 };
 
 export default function RootLayout({
@@ -18,8 +19,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+     
       <body className={cn("min-h-screen  antialiased grainy", inter.className)}>
-      <NavBar />
+        <NavBar />
         {children}
       </body>
     </html>
