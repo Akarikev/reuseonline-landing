@@ -16,7 +16,7 @@ function NavBar() {
 
           {/* todo: mobile nav */}
 
-          <div className="  space-x-4 sm:flex">
+          <div className=" items-center space-x-4 sm:flex">
             <>
               <Link
                 href="https://princes-organization-3.gitbook.io/reuseonline-docs/"
