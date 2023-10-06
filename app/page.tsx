@@ -41,7 +41,7 @@ export default function Home() {
 
         <p className="mt-5 max-w-prose text-zinc-700 sm:text-lg">
           reuseonline - A React custom hook to check the online status of a
-          user's device.
+          user&apos;s device.
         </p>
         <div className="mt-7 mx-auto mb-4 flex max-w-fit items-center justify-center space-x-2 overflow-hidden rounded-md border border-gray-200 bg-white px-7 py-2 shadow-md backdrop-blur transition-all hover:border-gray-300 hover:bg-white/50">
           <p className="text-sm font-semibold text-gray-700 cursor-pointer ">
@@ -124,7 +124,7 @@ export default function Home() {
               <code className="bg-gray-800 p-1 rounded-md text-white">
                 navigator.onLine
               </code>{" "}
-              property to determine the initial online status of the user's
+              property to determine the initial online status of the user&apos;s
               device. It also adds event listeners for the{" "}
               <code className="bg-green-600 p-1 rounded-md text-white">
                 online
