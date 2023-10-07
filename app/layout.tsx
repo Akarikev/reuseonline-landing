@@ -30,11 +30,11 @@ export const metadata: Metadata = {
     description:
       "A react hook to easily check the online status of your users",
     creator: "@elorm_elom",
-    images: ["https://reuseonline.vercel.app/twitter-image.png"],
+    images: ["https://reuseonline.vercel.app/twitter.png"],
   },
 
   openGraph: {
-    images: "https://reuseonline.vercel.app/opengraph-image.png",
+    images: "https://reuseonline.vercel.app/opgraph.png",
     title: "reuseOnline ⚡ - Easily check your users online status",
     description:
       "A react hook to easily check the online status of your users",
