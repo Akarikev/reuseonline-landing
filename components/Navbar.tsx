@@ -16,7 +16,7 @@ function NavBar() {
 
           {/* todo: mobile nav */}
 
-          <div className=" items-center space-x-4 sm:flex">
+          <div className=" items-center space-x-4 sm:flex ">
             <>
               <Link
                 href="https://princes-organization-3.gitbook.io/reuseonline-docs/"
@@ -33,12 +33,12 @@ function NavBar() {
                 target="_blank"
                 className={buttonVariants({
                   variant: "ghost",
+                  size: "sm",
                 })}
               >
-                <GithubIcon className="w-4 h-4 text-blue-600"/>
+                GitHub
+                <GithubIcon className="ml-2 h-5 w-5 text-blue-600" />
               </Link>
-
-             
             </>
           </div>
         </div>
